@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="api_key">a162603077d00c8ea8fd4be8a4661635</string>
+    <string name="web_service_url">http://api.openweathermap.org/data/2.5/forecast/daily?q=%1$s&amp;lang=ua&amp;units=metric&amp;cnt=%2$s&amp;APPID=%3$s</string>
+    <string name="invalid_url">Некоректна адреса</string>
+    <string name="weather_condition_image">Графічне відображення погодних умов</string>
+    <string name="high_temp">Вища: %1$s</string>
+    <string name="low_temp">Нижча: %1$s</string>
+    <string name="day_description">%1$s: %2$s</string>
+    <string name="humidity">Волог.: %s</string>
+    <string name="hint_text">Введіть місто (напр., Сєвєродонецьк, UA)</string>
+    <string name="read_error">Неможливо прочитати погодні дані</string>
+    <string name="connect_error">Неможливо приєднатися до openweathermap.org</string>
+</resources>
